@@ -1,6 +1,6 @@
 # Forkify Project
 
-Recipe aplication with custom recioe uploads.
+Recipe aplication with custom recipe uploads, making new recipes, saving bookmarks...
 
 App can be viewed on this link :
 
